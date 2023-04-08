@@ -8,7 +8,7 @@
     "client": "npm start --prefix finalproject3600",
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
-    "build": "npm install --prefix frontend && npm run build --prefix frontend"
+    "build": "npm install --prefix finalproject3600 && npm run build --prefix finalproject3600"
   },
   "repository": {
     "type": "git",
